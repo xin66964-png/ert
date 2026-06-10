@@ -1,0 +1,8 @@
+{
+  "name": "Remix: API Client \u0026 Parser Dashboard",
+  "description": "一个支持任意API调用、请求代理（解决CORS）、JSON自动解析、结构化模式(Schema)提取和可视化请求日志分析的多功能 API 调试助手面板。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
